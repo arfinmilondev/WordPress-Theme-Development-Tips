@@ -1,9 +1,7 @@
 # WP THEME DEVELOPMENT TRICKS
 
-### What should we do first?
-/*----------------------------------------------------
-SHORTHAND CONTANTS FOR THEME ASSETS URL
------------------------------------------------------*/
+###SHORTHAND CONTANTS FOR THEME ASSETS URL
+
 define('THEMEPREFIX_THEME_URI', get_template_directory_uri());
 define('THEMEPREFIX_THEME_FILE_PATH', get_template_directory());
 
